@@ -1,4 +1,6 @@
-This application, Keep In Touch,  may store data that has been provided by the user such as the names of friends, as well as logging statistics of success/failure or when entities are created modified or deleted, for the viewing benefit of the user.  This application will only store the data on the device it is installed on and will not transmit this data to any third party.
+This application, Keep In Touch,  may store data that has been provided by the user such as the names of friends, as well as logging statistics of success/failure or when entities are created modified or deleted, for the viewing benefit of the user.
+
+This application will only store the data on the device it is installed on and will not collect transmit this data to any third party.
 
 
 
